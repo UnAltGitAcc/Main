@@ -56,4 +56,6 @@ b = [1, 0, 1, 0, 1, 0, 1, 0]
 newB(b)
 
 print(b)
+
+https://docs.google.com/document/u/0/d/1CtNjF1gafdj0l0sixIg0Sm0yoiv3dWx2fUAKZuZhAY0/mobilebasic
 '''
